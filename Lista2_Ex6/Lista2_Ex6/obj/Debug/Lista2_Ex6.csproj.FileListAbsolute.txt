@@ -1,0 +1,14 @@
+C:\Users\Pedro Fernandes\source\repos\Lista2_Ex6\Lista2_Ex6\bin\Debug\Lista2_Ex6.exe.config
+C:\Users\Pedro Fernandes\source\repos\Lista2_Ex6\Lista2_Ex6\bin\Debug\Lista2_Ex6.exe
+C:\Users\Pedro Fernandes\source\repos\Lista2_Ex6\Lista2_Ex6\bin\Debug\Lista2_Ex6.pdb
+C:\Users\Pedro Fernandes\source\repos\Lista2_Ex6\Lista2_Ex6\obj\Debug\Lista2_Ex6.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\source\repos\Lista2_Ex6\Lista2_Ex6\obj\Debug\Lista2_Ex6.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\source\repos\Lista2_Ex6\Lista2_Ex6\obj\Debug\Lista2_Ex6.exe
+C:\Users\Pedro Fernandes\source\repos\Lista2_Ex6\Lista2_Ex6\obj\Debug\Lista2_Ex6.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex6\Lista2_Ex6\bin\Debug\Lista2_Ex6.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex6\Lista2_Ex6\bin\Debug\Lista2_Ex6.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex6\Lista2_Ex6\bin\Debug\Lista2_Ex6.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex6\Lista2_Ex6\obj\Debug\Lista2_Ex6.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex6\Lista2_Ex6\obj\Debug\Lista2_Ex6.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex6\Lista2_Ex6\obj\Debug\Lista2_Ex6.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex6\Lista2_Ex6\obj\Debug\Lista2_Ex6.pdb
