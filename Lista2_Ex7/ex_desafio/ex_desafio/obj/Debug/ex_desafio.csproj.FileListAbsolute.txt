@@ -1,0 +1,7 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Revisão - Lista de Exercícios - TAD e Classes\ex_desafio\ex_desafio\obj\Debug\ex_desafio.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Revisão - Lista de Exercícios - TAD e Classes\ex_desafio\ex_desafio\obj\Debug\ex_desafio.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Revisão - Lista de Exercícios - TAD e Classes\ex_desafio\ex_desafio\bin\Debug\ex_desafio.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Revisão - Lista de Exercícios - TAD e Classes\ex_desafio\ex_desafio\bin\Debug\ex_desafio.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Revisão - Lista de Exercícios - TAD e Classes\ex_desafio\ex_desafio\bin\Debug\ex_desafio.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Revisão - Lista de Exercícios - TAD e Classes\ex_desafio\ex_desafio\obj\Debug\ex_desafio.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Revisão - Lista de Exercícios - TAD e Classes\ex_desafio\ex_desafio\obj\Debug\ex_desafio.pdb

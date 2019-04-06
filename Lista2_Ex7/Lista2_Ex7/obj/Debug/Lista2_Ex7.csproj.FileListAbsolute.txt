@@ -1,7 +1,0 @@
-C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex7\Lista2_Ex7\bin\Debug\Lista2_Ex7.exe.config
-C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex7\Lista2_Ex7\bin\Debug\Lista2_Ex7.exe
-C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex7\Lista2_Ex7\bin\Debug\Lista2_Ex7.pdb
-C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex7\Lista2_Ex7\obj\Debug\Lista2_Ex7.csprojAssemblyReference.cache
-C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex7\Lista2_Ex7\obj\Debug\Lista2_Ex7.csproj.CoreCompileInputs.cache
-C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex7\Lista2_Ex7\obj\Debug\Lista2_Ex7.exe
-C:\Users\Pedro Fernandes\Desktop\PUC\2° Período\POO\Lista de Exercícios - TAD e Classes\Lista2_Ex7\Lista2_Ex7\obj\Debug\Lista2_Ex7.pdb
