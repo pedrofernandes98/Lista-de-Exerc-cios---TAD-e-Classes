@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BCFC8750-E595-44EE-AD92-46A8E41C2005}</ProjectGuid>
+    <ProjectGuid>{0DD123D9-16CB-4E1E-8F80-7618FD9208B8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Lista2_Ex7</RootNamespace>
-    <AssemblyName>Lista2_Ex7</AssemblyName>
+    <RootNamespace>ex_desafio</RootNamespace>
+    <AssemblyName>ex_desafio</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Categoria.cs" />
+    <Compile Include="Dados.cs" />
+    <Compile Include="Operacoes.cs" />
+    <Compile Include="Produto.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

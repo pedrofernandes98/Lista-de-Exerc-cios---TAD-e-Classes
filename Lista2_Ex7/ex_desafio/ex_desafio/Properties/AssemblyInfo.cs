@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
-[assembly: AssemblyTitle("Lista2_Ex7")]
+[assembly: AssemblyTitle("ex_desafio")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Lista2_Ex7")]
+[assembly: AssemblyProduct("ex_desafio")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("bcfc8750-e595-44ee-ad92-46a8e41c2005")]
+[assembly: Guid("0dd123d9-16cb-4e1e-8f80-7618fd9208b8")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //
